@@ -1,9 +1,9 @@
-[submodule "saleor"]
-	path = saleor
-	url = https://github.com/saleor/saleor.git
 [submodule "saleor-dashboard"]
 	path = saleor-dashboard
-	url = https://github.com/saleor/saleor-dashboard.git
+	url = git@github.com:Tequerist/saleor-dashboard.git
 [submodule "react-storefront"]
 	path = react-storefront
 	url = git@github.com:Tequerist/saleor-react-storefront.git
+[submodule "saleor"]
+	path = saleor
+	url = https://github.com/saleor/saleor.git
